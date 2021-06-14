@@ -19,7 +19,7 @@ img {
 
 .card .avatar {
     width: 100px;
-    border-radius: 33%;
+    border-radius: 50% 25%;
     margin-top: -50px;
 }
 
