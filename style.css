@@ -1,7 +1,8 @@
 body {
     font-family:Helvetica, sans-serif;
     background-color: #ccc;
-    color: #222
+    color: #222;
+    margin-top: 100px;
 }
 
 img {
@@ -19,4 +20,5 @@ img {
 .card .avatar {
     width: 100px;
     border-radius: 33%;
+    margin-top: -50px;
 }
