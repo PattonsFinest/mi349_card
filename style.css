@@ -9,6 +9,15 @@ img {
     width: 100%;
 }
 
+h1 {
+    margin: 20px 0;
+}
+
+h2 {
+    margin: 0;
+    font-weight: 100;
+}
+
 .card {
     background-color: rgb(229, 229, 229);
     border-radius: 20px;
